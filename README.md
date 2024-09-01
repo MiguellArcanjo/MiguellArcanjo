@@ -13,7 +13,12 @@ I started my journey in technology at 16 years old, when I joined a robotics tea
 <a href = "mailto:contato.miguelarcanjo2305@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="www.linkedin.com/in/miguel-arcanjo-barreto-siqueira-4b879a259" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
-          
+
+<div>
+<a href="https://github.com/seu-usuário-aqui">
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?MiguellArcanjo&layout=compact&langs_count=7&theme=dracula"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?MiguellArcanjo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
           
           
           
