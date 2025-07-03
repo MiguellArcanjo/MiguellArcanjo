@@ -53,13 +53,13 @@ Today, I’m a **Full-Stack Developer** building complete and scalable web appli
 ## 📫 Contact Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/miguelarcanjo" target="_blank">
+  <a href="(https://www.linkedin.com/in/miguel-arcanjob/)" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:miguel.siqueira.dev@gmail.com" target="_blank">
+  <a href="mailto:contato.miguelarcanjo2305@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://www.instagram.com/seu_instagram" target="_blank">
+  <a href="https://www.instagram.com/miguel_4rcanjo" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </p>
