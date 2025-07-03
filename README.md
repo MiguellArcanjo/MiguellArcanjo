@@ -79,11 +79,11 @@ Today, I’m a **Full-Stack Developer** building complete and scalable web appli
 <p align="center">
 
   <a href="https://github.com/MiguellArcanjo/MyMoney" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MiguellArcanjo&repo=MyMoney-1&theme=tokyonight" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MiguellArcanjo&repo=MyMoney&theme=tokyonight" />
   </a>
 
   <a href="https://github.com/MiguellArcanjo/Portfolio_Marcos" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MiguellArcanjo&Portfolio_Marcos-2&theme=tokyonight" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MiguellArcanjo&repo=Portfolio_Marcos&theme=tokyonight" />
   </a>
   
 </p>
