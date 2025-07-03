@@ -1,31 +1,77 @@
-# 👋 Hello! Welcome to my Github profile.
+<h1 align="center">Hi there 👋, I'm Miguel Arcanjo</h1>
 
-## My name is Miguel!
+<p align="center">
+  <em>Full-Stack Developer | React · Next.js · Node.js · Java · Spring Boot · PHP</em><br />
+  <em>Computer Science Student · Robotics Enthusiast · UI/UX & Performance Focused</em>
+</p>
 
-I started my journey in technology at the age of 16, when I joined a robotics team, where I competed in several competitions. During this time, my interest in programming began to grow. I started learning the basics of web development, creating websites with HTML and CSS. Over time, I learned to develop websites using Next.js and Node.js, sometimes using Java with Spring Boot on the backend. Recently, I am studying Cybersecurity to consolidate my knowledge in web development and enter the technology market.
+---
 
-## I have knowledge of
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width="40" height="40" margin='20'/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"  width="40" height="40" margin='20'/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" height="40" margin='20'/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg"  width="40" height="40" margin='20'/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40" height="40" margin='20'/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="40" height="40" margin='20'/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="40" height="40" margin='20'/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" width="40" height="40" margin='20'/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="40" height="40" margin='20'/>
+## 🚀 About Me
 
-## My contacts
-<div>
-<a href="https://instagram.com/miguel_4rcanjo" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-<a href = "mailto:contato.miguelarcanjo2305@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="www.linkedin.com/in/miguel-arcanjo-barreto-siqueira-4b879a259" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
-</div>
+👨‍💻 I started my journey in technology at the age of 16 when I joined a robotics team and competed in several tournaments.  
+That experience sparked my passion for programming and problem-solving.
 
-## My statistics
-<div>
-<a href="https://github.com/MiguellArcanjo">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MiguellArcanjo&layout=compact&langs_count=7&theme=dracula"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=MiguellArcanjo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
-          
-          
-          
-          
-          
-          
-          
-          
-          
+Today, I’m a **Full-Stack Developer** building complete and scalable web applications using:
+
+- **Frontend:** React.js, Next.js, HTML, CSS, JavaScript, TypeScript  
+- **Backend:** Node.js, Java with Spring Boot, PHP  
+- **Databases:** PostgreSQL, MySQL
+
+🎓 I’m currently pursuing a **Bachelor's in Computer Science** and studying **Cybersecurity** to complement my development skills and gain a deeper understanding of digital systems.
+
+---
+
+## 🧰 Tech Stack
+
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="Next.js" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="Spring Boot" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="PHP" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MiguellArcanjo&show_icons=true&theme=tokyonight" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MiguellArcanjo&layout=compact&theme=tokyonight" height="180"/>
+</p>
+
+---
+
+## 📫 Contact Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/miguelarcanjo" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:miguel.siqueira.dev@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/seu_instagram" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+</p>
+
+---
+
+## 💡 Fun Facts
+
+- 🤖 I started programming through robotics competitions  
+- 🎯 I enjoy optimizing apps for performance and UX  
+- 🌱 I'm currently learning more about **security and DevOps**
+
+---
+
+⭐️ Thanks for visiting my profile!
