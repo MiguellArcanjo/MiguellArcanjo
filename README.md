@@ -53,7 +53,7 @@ Today, I’m a **Full-Stack Developer** building complete and scalable web appli
 ## 📫 Contact Me
 
 <p align="center">
-  <a href="(https://www.linkedin.com/in/miguel-arcanjob/)" target="_blank">
+  <a href="https://www.linkedin.com/in/miguel-arcanjob/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:contato.miguelarcanjo2305@gmail.com" target="_blank">
@@ -73,5 +73,19 @@ Today, I’m a **Full-Stack Developer** building complete and scalable web appli
 - 🌱 I'm currently learning more about **security and DevOps**
 
 ---
+
+## 💼 Highlighted Projects
+
+<p align="center">
+
+  <a href="https://github.com/MiguellArcanjo/MyMoney" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MiguellArcanjo&repo=nome-do-projeto-1&theme=tokyonight" />
+  </a>
+
+  <a href="https://github.com/MiguellArcanjo/Portfolio_Marcos" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MiguellArcanjo&repo=nome-do-projeto-2&theme=tokyonight" />
+  </a>
+  
+</p>
 
 ⭐️ Thanks for visiting my profile!
