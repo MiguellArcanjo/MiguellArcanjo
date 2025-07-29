@@ -70,7 +70,7 @@ Today, I’m a **Full-Stack Developer** building complete and scalable web appli
 
 - 🤖 I started programming through robotics competitions  
 - 🎯 I enjoy optimizing apps for performance and UX  
-- 🌱 I'm currently learning more about **security and DevOps**
+- 🌱 I'm currently learning more about **Data Science**
 
 ---
 
